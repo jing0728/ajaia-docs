@@ -8,6 +8,7 @@
 | Setup and run instructions | `README.md` |
 | Architecture note | `ARCHITECTURE.md` |
 | AI workflow note | `AI_WORKFLOW.md` |
+| Screenshots | `screenshots/` (`1-editor.jpg`, `2-comments.jpg`, `3-share-roles.jpg`). No extra setup is needed; these are for a quick look. |
 | Automated tests | `backend/tests/` (`test_api.py`, `test_collab.py`, `conftest.py`) + `backend/pytest.ini`. 23 tests; see README → Tests. |
 
 ## Test accounts
