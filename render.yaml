@@ -1,0 +1,7 @@
+# One-click deploy on Render (free tier): New > Blueprint > pick this repo.
+services:
+  - type: web
+    name: ajaia-docs
+    runtime: docker
+    plan: free
+    healthCheckPath: /api/users

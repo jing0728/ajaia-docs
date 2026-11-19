@@ -1,0 +1,12 @@
+node_modules/
+.venv/
+__pycache__/
+.pytest_cache/
+dist/
+backend/data/
+*.db
+.env
+.claude/
+CODEX_REVIEW_BRIEF.md
+.DS_Store
+npm-debug.log*
