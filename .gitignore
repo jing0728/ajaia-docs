@@ -8,5 +8,6 @@ backend/data/
 .env
 .claude/
 CODEX_REVIEW_BRIEF.md
+VIDEO_OUTLINE.md
 .DS_Store
 npm-debug.log*
