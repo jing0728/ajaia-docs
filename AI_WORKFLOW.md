@@ -119,4 +119,10 @@ The first working builds had real bugs that only showed up under review. I treat
     - Import .md, reject .png, reject an unknown email.
     - A forced concurrent save shows the conflict banner.
     - Switching user right after typing keeps the edit.
+- **Checked only by reading the code (not reproduced in a browser):**
+  - The toolbar lock during a restore.
+  - Reopening a document waiting for a running restore.
+  - Out-of-order heartbeat responses.
+  - The notice when a restore fails after leaving the document.
+  - The title being included in a copied draft.
 - **Code reading:** `TODO: which parts you read line by line (e.g. get_access/require, update_document, the autosave flush, record_version) and what you asked the AI to explain.`
