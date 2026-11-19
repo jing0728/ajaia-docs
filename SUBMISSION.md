@@ -2,7 +2,7 @@
 
 | Item | Where |
 |---|---|
-| Live app | `TODO: Render URL` |
+| Live app | https://ajaia-docs-fjpk.onrender.com |
 | Walkthrough video | `VIDEO_URL.txt` |
 | Source code | `backend/`, `frontend/`, `Dockerfile`, `render.yaml`, `.dockerignore`, `.gitignore` |
 | Setup and run instructions | `README.md` |

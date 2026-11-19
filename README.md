@@ -2,7 +2,7 @@
 
 A lightweight collaborative document editor. You can create and format documents in the browser, import files, share them as editor, commenter or viewer, comment on them, see who else has a document open, browse and restore past versions, and export to PDF or Markdown.
 
-**Live app:** `TODO: paste Render URL here`
+**Live app:** https://ajaia-docs-fjpk.onrender.com
 
 > **Note on the hosted demo:** it runs on Render's free tier, which has no persistent disk. The service sleeps after ~15 minutes idle; the first visit after that takes 30-60 s to wake, and **documents created earlier are reset** (the seeded welcome document comes back). Within a session, everything persists across refreshes. Running locally keeps all data. See [Deployment](#deployment).
 
